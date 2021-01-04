@@ -1,3 +1,5 @@
+This app was created to practice and explore making api calls and other features of react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
